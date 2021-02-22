@@ -7,4 +7,6 @@ Used for a TU Berlin Rasperry PI Master Project - WS 2020/21
 
 Next Steps:
 - expand Data Set for different mask colors, light and position conditions 
-- train model again - Testing for the accuracy that works out best for real life apllication 
+- train model again - Testing for the accuracy that works out best for real life apllication - enhance the robustness
+- train model with GPU instead of CPU
+- Visualize statistical Measurments 
