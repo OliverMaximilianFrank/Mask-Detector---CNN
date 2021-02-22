@@ -1,4 +1,4 @@
-# Mask-Detector---CNN
+# Mask-Detector_CNN
 White Mask Detector with a Convolutional Neural Network 
 
 Inspirational Code found on: https://pub.towardsai.net/covid-19-face-mask-detection-using-deep-learning-and-opencv-9e554c380e23
