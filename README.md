@@ -11,6 +11,8 @@ Next Steps:
 - train model with GPU instead of CPU
 - Visualize statistical Measurments 
 
+
 Usage:
+
 You first have to train a model, which due to capacity space not possible to upload here. For that, use the MaskDetectorTraining file first. The Training data you can get from the source posted above. 
 Afterwards you can use the slim MaskDetector-Script to use your model or if you for example want to use it on a device with low processor power the MaskDetetcor-Script with associated lite-model. 
