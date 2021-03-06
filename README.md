@@ -17,4 +17,5 @@ Usage:
 You first have to train a model, which due to capacity space not possible to upload here. For that, use the MaskDetectorTraining file first. The Training data you can get from the source posted above. 
 Afterwards you can use the slim MaskDetector-Script to use your model or if you for example want to use it on a device with low processor power the MaskDetetcor-Script with associated lite-model. 
 
+
 ![Mutation](https://user-images.githubusercontent.com/79472608/110202702-bc8e2f00-7e6a-11eb-84ec-f092296670e0.png)
