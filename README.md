@@ -1,6 +1,8 @@
 # Mask_Detector_CNN
 White Mask Detector with a Convolutional Neural Network 
 
+Inspiration and Data Set: https://github.com/prajnasb/observations
+
 Used for a TU Berlin Rasperry PI Master Project - WS 2020/21
 
 Next Steps:
